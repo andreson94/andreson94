@@ -1,7 +1,12 @@
-## Olá ! Sou o Andreson Cruz
-
-- 🔭 Estudante de Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python
+<h1>Olá ! Sou o Andreson Cruz</h1>
+<h2>
+   - 🔭 Estudante de Analise e Desenvolvimento de Sistemas
+ </h2>
+ <h3>
+   - Estudando Python
+   - HTML, CSS, PHP
+   - Conhecimentos em Java
+ </h3>
 
  <div>
   <a href="https://github.com/andreson94">
