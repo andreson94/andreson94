@@ -4,9 +4,8 @@
    - 🔭 Estudante de Analise e Desenvolvimento de Sistemas
  </h2>
  <h3>
-   - Estudando Python
-   - HTML, CSS, PHP
-   - Conhecimentos em Java
+   - Estudando HTML5, CSS3, PHP, Bootstrap e Jquery<br>
+   - Conhecimentos em Java e Python.
  </h3>
 
  <div>
@@ -17,6 +16,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Andreson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andreson = js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Andreson = jq" height="30" width="40" src="https://icons.iconarchive.com/icons/sicons/basic-round-social/32/jquery-icon.png">
+  <img align="center" alt="Andreson = html5" height="40" width="50" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-html-5-icon.png">
+  <img align="center" alt="Andreson = css3" height="40" width="50" src="https://icons.iconarchive.com/icons/designbolts/cute-social-2014/48/CSS3-icon.png">
  
 </div>
   
