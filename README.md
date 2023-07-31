@@ -6,6 +6,8 @@
  <h3>
    - Estudando HTML5, CSS3, PHP, Bootstrap e Jquery<br>
    - Conhecimentos em Java e Python.
+   - WordPress, Elementor.
+   - QA Tester, Cucumber, Gerkins, Postman...
  </h3>
 
  <div>
